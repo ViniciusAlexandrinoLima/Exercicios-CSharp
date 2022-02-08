@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\bin\Debug\net6.0\Exercicio13.exe
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\bin\Debug\net6.0\Exercicio13.deps.json
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\bin\Debug\net6.0\Exercicio13.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\bin\Debug\net6.0\Exercicio13.dll
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\bin\Debug\net6.0\ref\Exercicio13.dll
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\bin\Debug\net6.0\Exercicio13.pdb
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\obj\Debug\net6.0\Exercicio13.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\obj\Debug\net6.0\Exercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\obj\Debug\net6.0\Exercicio13.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\obj\Debug\net6.0\Exercicio13.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\obj\Debug\net6.0\Exercicio13.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\obj\Debug\net6.0\Exercicio13.dll
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\obj\Debug\net6.0\ref\Exercicio13.dll
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\obj\Debug\net6.0\Exercicio13.pdb
+C:\Users\Vinicius\Desktop\Exercicios\Exercicio13\obj\Debug\net6.0\Exercicio13.genruntimeconfig.cache
